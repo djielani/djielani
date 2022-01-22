@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [#](#)
 
-- 💬 Ask me about **Angular and Laravel**
+- 💬 Ask me about **Angular and Laravel and wathever you want**
 
 - 😄 I also speak **French** and **Wolof**
 
