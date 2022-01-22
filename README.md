@@ -27,7 +27,7 @@
 <p align="left">
 <!--<a href="https://codepen.io/djielani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="djielani" height="30" width="40" /></a>
 <a href="https://twitter.com/djielanibodian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="djielanibodian" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/djielani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djielani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/djielani-bodian-1306a420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djielani" height="30" width="40" /></a>
 <a href="https://fb.com/djielani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="djielani" height="30" width="40" /></a>
 <a href="https://instagram.com/djielani_221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djielani_221" height="30" width="40" /></a>
 </p>
