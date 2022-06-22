@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [#](#) -->
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/djielani/>here</a>
+- 👨‍💻 All of my projects are available https://github.com/djielani
 
 - 📝 I regularly write articles on codeAvenue.com
 
