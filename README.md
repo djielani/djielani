@@ -3,15 +3,15 @@
 
 <!--- 🔭 I’m currently working on [project](#)-->
 
-- 🌱 I’m currently learning **Angular and Laravel**
+- 🌱 I’m currently learning **React and Laravel**
 
 <!--- 👯 I’m looking to collaborate on [#](#)
 
 - 🤝 I’m looking for help with [#](#) -->
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available <a href="https://github.com/djielani/>here</a>
 
-- 📝 I regularly write articles on [#](#)
+- 📝 I regularly write articles on codeAvenue.com
 
 - 💬 Ask me about **Angular and Laravel and wathever you want**
 
